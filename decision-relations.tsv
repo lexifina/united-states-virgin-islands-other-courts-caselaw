@@ -1,0 +1,4 @@
+path	relation	target	note
+decisions/district-court-of-the-virgin-islands/1998/39-V-I-199.md	same-decision-as	decisions/district-court-of-the-virgin-islands/1998/38-V-I-460.md	the same decision in another reporter (39 V.I. 199 and 38 V.I. 460), same day and text (similarity 1.00); both kept
+decisions/district-court-of-the-virgin-islands/1998/40-V-I-279.md	same-decision-as	decisions/district-court-of-the-virgin-islands/1998/40-V-I-265.md	the same decision in another reporter (40 V.I. 279 and 40 V.I. 265), same day and text (similarity 0.74, text contained 1.00); both kept
+decisions/superior-court-of-the-virgin-islands/2010/55-V-I-3.md	same-decision-as	decisions/superior-court-of-the-virgin-islands/2010/55-V-I-30.md	the same decision in another reporter (55 V.I. 3 and 55 V.I. 30), same day and text (similarity 0.70, text contained 0.81); both kept
